@@ -12,8 +12,7 @@ $ protoc --proto_path=./protocol/ --python_out=. ./protocol/trawler.proto
 $ cd ../..
 ```
 
-Also install the requirements for [the parser](protoc --proto_path=./protocol/ --python_out=. ./protocol/trawler.proto; cd ../..
-) and [the daemon](https://github.com/Eluvatar/trawler-daemon-c) (and set up the daemon).
+Also install the requirements for [the parser](https://github.com/Eluvatar/trawler-parser-python) and [the daemon](https://github.com/Eluvatar/trawler-daemon-c) (and set up the daemon).
 
 Example usage:
 
